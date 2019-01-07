@@ -15,5 +15,6 @@ int main()
 
     int nSum = FindSubSetSum(vecSrc);
     cout<<"sum is "<<nSum<<endl;
-    return 0;
+	system("pause");
+	return 0;
 }
